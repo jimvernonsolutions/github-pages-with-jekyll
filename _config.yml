@@ -1,6 +1,7 @@
 title: Jim Vernon Solutions Blog
 author: jimvernonsolutions
 email: jim@jimvernon.solutions
+theme: minima
 description: > # this means to ignore newlines until "baseurl:"
   This is my practice in building a GitHub Pages site.  I want to build real sites.
   This is not real HTML/CSS, for example.  GitHub Pages is doing all the translating, but it's also not giving me a WYSIWYG editor.
